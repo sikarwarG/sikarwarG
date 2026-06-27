@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m mechanical engineer 
+- 
 
 <!---
 sikarwarG/sikarwarG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
